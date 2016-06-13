@@ -6,7 +6,7 @@
 		<file>res/themes/default/icon-txt/normal/trade.png</file>
         <file>res/themes/default/icon-txt/normal/export.png</file>
         <file>res/themes/default/icon-txt/normal/overview.png</file>
-        <file>res/themes/default/icon-txt/normal/recieve.png</file>
+        <file>res/themes/default/icon-txt/normal/receive.png</file>
         <file>res/themes/default/icon-txt/normal/send-coin.png</file>
         <file>res/themes/default/icon-txt/normal/transactions.png</file>
         <file>res/themes/default/icon-txt/active/address.png</file>
@@ -15,7 +15,7 @@
 		<file>res/themes/default/icon-txt/active/trade.png</file>
         <file>res/themes/default/icon-txt/active/export.png</file>
         <file>res/themes/default/icon-txt/active/overview.png</file>
-        <file>res/themes/default/icon-txt/active/recieve.png</file>
+        <file>res/themes/default/icon-txt/active/receive.png</file>
         <file>res/themes/default/icon-txt/active/send-coin.png</file>
         <file>res/themes/default/icon-txt/active/transactions.png</file>
         <file>res/themes/default/logo.png</file>

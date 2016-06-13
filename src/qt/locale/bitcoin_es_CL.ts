@@ -2207,7 +2207,7 @@ Dirección: %4</translation>
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation>Muestra comandos
+        <translation>Muestra commandos
 </translation>
     </message>
     <message>
@@ -2288,13 +2288,13 @@ Dirección: %4</translation>
     <message>
         <location line="+37"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceptar comandos consola y JSON-RPC
+        <translation>Aceptar commandos consola y JSON-RPC
 </translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Correr como demonio y acepta comandos
+        <translation>Correr como demonio y acepta commandos
 </translation>
     </message>
     <message>

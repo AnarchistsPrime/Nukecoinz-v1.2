@@ -607,7 +607,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Questa transazione è superiore al limite di dimensione. È comunque possibile inviarla con una commissione di %1, che va ai nodi che processano la tua transazione e contribuisce a sostenere la rete. Vuoi pagare la commissione?</translation>
+        <translation>Questa transazione è superiore al limite di dimensione. È comunque possible inviarla con una commissione di %1, che va ai nodi che processano la tua transazione e contribuisce a sostenere la rete. Vuoi pagare la commissione?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -1623,7 +1623,7 @@ Indirizzo: %4
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation>Non è stato possibile decodificare la firma.</translation>
+        <translation>Non è stato possible decodificare la firma.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2335,7 +2335,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. Bitcoin is probably already running.</source>
-        <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente Nukecoinz è già in esecuzione.</translation>
+        <translation>Non è possible ottenere i dati sulla cartella %s. Probabilmente Nukecoinz è già in esecuzione.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2912,12 +2912,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="-52"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Non è possibile retrocedere il wallet</translation>
+        <translation>Non è possible retrocedere il wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot write default address</source>
-        <translation>Non è possibile scrivere l&apos;indirizzo di default</translation>
+        <translation>Non è possible scrivere l&apos;indirizzo di default</translation>
     </message>
     <message>
         <location line="+64"/>

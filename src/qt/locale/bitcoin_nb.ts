@@ -738,7 +738,7 @@ Adresse: %4
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>Den angitte adressed &quot;%1&quot; er ikke en gyldig Nukecoinz-adresse.</translation>
+        <translation>Den angitte addressed &quot;%1&quot; er ikke en gyldig Nukecoinz-adresse.</translation>
     </message>
     <message>
         <location line="+10"/>

@@ -1201,12 +1201,12 @@ QToolBar:vertical QPushButton#sendCoinsAction:checked
 QToolBar:vertical QPushButton#receiveCoinsAction
 {
 	height: 60px;
-    background: url(":/default/res/themes/default/icon-txt/normal/recieve.png") no-repeat left 0 transparent; 
+    background: url(":/default/res/themes/default/icon-txt/normal/receive.png") no-repeat left 0 transparent; 
 }
 QToolBar:vertical QPushButton#receiveCoinsAction:checked
 {
 	height: 60px;
-    background: url(":/default/res/themes/default/icon-txt/active/recieve.png") no-repeat left 0 transparent; 
+    background: url(":/default/res/themes/default/icon-txt/active/receive.png") no-repeat left 0 transparent; 
 }
 
 QToolBar:vertical QPushButton#historyAction

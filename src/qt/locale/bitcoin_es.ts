@@ -1278,7 +1278,7 @@ Dirección: %4
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Escriba &lt;b&gt;help&lt;/b&gt; para ver un resumen de los comandos disponibles.</translation>
+        <translation>Escriba &lt;b&gt;help&lt;/b&gt; para ver un resumen de los commandos disponibles.</translation>
     </message>
 </context>
 <context>
@@ -2206,7 +2206,7 @@ Dirección: %4
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation>Muestra comandos
+        <translation>Muestra commandos
 </translation>
     </message>
     <message>
@@ -2286,13 +2286,13 @@ Dirección: %4
     <message>
         <location line="+37"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceptar comandos consola y JSON-RPC
+        <translation>Aceptar commandos consola y JSON-RPC
 </translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Correr como demonio y aceptar comandos
+        <translation>Correr como demonio y aceptar commandos
 </translation>
     </message>
     <message>

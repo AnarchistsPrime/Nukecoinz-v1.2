@@ -2388,7 +2388,7 @@ par exemple : alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo
     <message>
         <location line="+3"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Avertissement : wallet.dat corrompu, données récupérées ! Le fichier wallet.dat original a été enregistré en tant que wallet.{horodatage}.bak dans %s ; si votre solde ou transactions sont incorrects vous devriez effectuer une restauration depuis une sauvegarde.</translation>
+        <translation>Avertissement : wallet.dat corrompu, données récupérées ! Le fichier wallet.dat original a été enregistré en tant que wallet.{horodatage}.bak dans %s ; si votre solde ou transactions sont incorrects vous devriez effectuer une restoration depuis une sauvegarde.</translation>
     </message>
     <message>
         <location line="+14"/>
