@@ -772,7 +772,7 @@ Endereço: %4
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation>opções da linha de comandos</translation>
+        <translation>opções da linha de commandos</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1215,12 +1215,12 @@ Endereço: %4
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation>Opções de linha de comandos</translation>
+        <translation>Opções de linha de commandos</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the Bitcoin-Qt help message to get a list with possible Bitcoin command-line options.</source>
-        <translation>Mostrar a mensagem de ajuda do Nukecoinz-Qt para obter uma lista com possíveis opções a usar na linha de comandos.</translation>
+        <translation>Mostrar a mensagem de ajuda do Nukecoinz-Qt para obter uma lista com possíveis opções a usar na linha de commandos.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1275,7 +1275,7 @@ Endereço: %4
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Digite &lt;b&gt;help&lt;/b&gt; para visualizar os comandos disponíveis.</translation>
+        <translation>Digite &lt;b&gt;help&lt;/b&gt; para visualizar os commandos disponíveis.</translation>
     </message>
 </context>
 <context>
@@ -2203,7 +2203,7 @@ Endereço: %4
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation>Listar comandos</translation>
+        <translation>Listar commandos</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -2278,12 +2278,12 @@ Endereço: %4
     <message>
         <location line="+37"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Aceitar comandos da consola e JSON-RPC</translation>
+        <translation>Aceitar commandos da consola e JSON-RPC</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Correr o processo como um daemon e aceitar comandos</translation>
+        <translation>Correr o processo como um daemon e aceitar commandos</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2743,7 +2743,7 @@ por exemplo: alertnotify=echo %%s | mail -s &quot;Alerta Bitcoin&quot; admin@foo
     <message>
         <location line="+76"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Enviar comandos para o nó a correr em &lt;ip&gt; (por defeito: 127.0.0.1)</translation>
+        <translation>Enviar commandos para o nó a correr em &lt;ip&gt; (por defeito: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="-120"/>

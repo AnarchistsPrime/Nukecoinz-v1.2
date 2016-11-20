@@ -34,7 +34,7 @@
      
         /*!
           * Sets the action owner of this button, that is the action
-          * associated to the button. The button is configured immediatly
+          * associated to the button. The button is configured immediately
           * depending on the action status and the button and the action
           * are connected together so that when the action is changed the button
           * is updated and when the button is clicked the action is triggered.
